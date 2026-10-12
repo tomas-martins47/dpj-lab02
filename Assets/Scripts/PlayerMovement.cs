@@ -18,12 +18,12 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnEnable()
     {
-        actions.Enable();
+        actions.Movement.Enable();
     }
 
     private void OnDisable()
     {
-        actions.Disable();
+        actions.Movement.Disable();
     }
 
     private void ReadMovement()

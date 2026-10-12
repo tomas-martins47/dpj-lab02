@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walk_0
+      name: PlayerNinja
       rect:
         serializedVersion: 2
         x: 0
@@ -488,7 +488,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Walk_0: -1546907172
+      PlayerNinja: -1546907172
       Walk_1: -1821337937
       Walk_10: 1129165392
       Walk_11: -575164822
